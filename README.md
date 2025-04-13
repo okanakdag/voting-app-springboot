@@ -9,7 +9,6 @@ The goal is to allow users to create polls, vote, and view poll results — with
 ## ✅ Planned Initial Features
 
 - Authenticated users can create new polls with multiple options and a deadline.
-- Both authenticated and guest users can vote in available polls.
+- Authenticated users can vote in available polls.
 - The system prevents users from voting more than once in the same poll.
 - Voting is not allowed after deadline. 
-- Guest votes are tracked using IP address and browser cookies.
